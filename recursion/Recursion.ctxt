@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Recursion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Recursion\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n\ p
+comment1.target=double\ powerOfN(double,\ int)
+comment2.params=n
+comment2.target=int\ sum(int)
+comment3.params=input
+comment3.target=java.lang.String\ removeP(java.lang.String)
+comment4.params=str
+comment4.target=java.lang.String\ changePi(java.lang.String)
+comment5.params=str
+comment5.target=java.lang.String\ pairStar(java.lang.String)
+comment5.text=\r\n\ Given\ a\ string,\ compute\ recursively\ a\ new\ string\ where\ identical\ chars\r\n\ that\ are\ adjacent\ in\ the\ original\ string\ are\ separated\ from\ each\ other\r\n\ by\ a\ "*".\r\n\ \r\n\ pairStar("hello")\ \u2192\ "hel*lo"\r\n\ pairStar("xxyy")\ \u2192\ "x*xy*y"\r\n\ pairStar("aaaa")\ \u2192\ "a*a*a*a"\r\n
+comment6.params=str
+comment6.target=java.lang.String\ reverseString(java.lang.String)
+comment6.text=\r\n\ Given\ a\ string,\ reverse\ the\ order\ of\ the\ letters\ in\ the\ string.\r\n\ reverseString(\u201CABCDE\u201D)\ \u2192\ \u201CEDCBA\u201D\r\n\ reverseString(\u201CJava\u201D)\ \u2192\ \u201CavaJ\u201D\r\n
+comment7.params=n
+comment7.target=int\ nCombinations(int)
+comment7.text=\r\n\ Amazon\ Interview\ Question\r\n\ \ \ --\ Unique\ Staircase\ Combinations\r\n\ \ \ Given\ a\ staircase\ with\ n\ number\ of\ steps\ and\ provided\ you\ can\ only\r\n\ \ \ climb\ 1\ or\ 2\ steps\ at\ a\ time,\ write\ a\ function\ that\ returns\ the\ number\ of\r\n\ \ \ unique\ ways\ to\ climb\ the\ staircase.\r\n
+comment8.params=n\ source\ destination\ intermediate
+comment8.target=void\ ToH(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
