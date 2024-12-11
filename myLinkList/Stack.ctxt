@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ This\ a\ stack\ that\ implements\ an\ LinkedList\ to\ achieve\ O(1)\ efficiency\ when\ inserting/deleting\ elemnts\ in\ a\ "First\ In,\ Last\ Out"\ order\r\n\r\n\ @author\ (Nicholas\ Rapacciuolo)\r\n\ @version\ (11/7/24)\r\n
+comment1.params=
+comment1.target=boolean\ empty()
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=data
+comment4.target=java.lang.Object\ push(java.lang.Object)
+comment5.params=obj
+comment5.target=int\ search(java.lang.Object)
+numComments=6

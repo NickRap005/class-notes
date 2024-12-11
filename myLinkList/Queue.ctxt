@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ The\ queue\ interface\ is\ needed\ to\ create\ the\ methods\ needed\ to\ uses\ a\ LinkedList\ or\ any\ other\ data\ structure\ as\ a\ queue.\ \r\n\ Note\ that\ queues\ are\ in\ a\ "First\ In,\ First\ Out"\ order.\r\n\r\n\ @author\ (Nicholas\ Rapacciuolo)\r\n\ @version\ (11/7/24)\r\n
+comment1.params=e
+comment1.target=boolean\ add(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment3.params=
+comment3.target=java.lang.Object\ poll()
+numComments=4

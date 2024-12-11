@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Class
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Class\ here.\r\n\r\n\ @author\ (Nicholas\ Rapacciuolo)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Class()
+comment2.params=student
+comment2.target=void\ addStudent(Student)
+comment3.params=id
+comment3.target=boolean\ removeStudent(int)
+comment4.params=id
+comment4.target=boolean\ searchStudent(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

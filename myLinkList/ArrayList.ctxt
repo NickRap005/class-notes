@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ArrayList
+comment0.text=\r\n\ ArrayList\ data\ structure\ that\ uses\ an\ array\ plus\ accessor\ and\ mutator\ methods\ for\ a\ greater\ degree\ of\ control.\r\n\r\n\ @author\ (Nicholas\ Rapacciuolo)\r\n\ @version\ (11/7/24)\r\n
+comment1.params=
+comment1.target=ArrayList()
+comment1.text=\r\n\ Constructor\r\n\ Initialize\ instance\ varaiable,\ arr\r\n
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=index\ val
+comment2.target=boolean\ add(int,\ java.lang.Object)
+comment3.params=val
+comment3.target=boolean\ add(java.lang.Object)
+comment4.params=index
+comment4.target=boolean\ remove(int)
+comment5.params=value
+comment5.target=boolean\ contains(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=index
+comment7.target=java.lang.Object\ get(int)
+comment8.params=index\ value
+comment8.target=boolean\ set(int,\ java.lang.Object)
+comment9.params=
+comment9.target=int\ size()
+numComments=11

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=StackA
+comment0.text=\r\n\ This\ is\ a\ variation\ on\ the\ Stack\ class\ that\ accomplishes\ all\ the\ same\ methods\ using\ an\ ArrayList\ instead\ of\ a\ LinkedList\r\n\r\n\ @author\ (Nicholas\ Rapacciuolo)\r\n\ @version\ (11/7/24)\r\n
+comment1.params=
+comment1.target=boolean\ empty()
+comment1.text=\r\n\ @param\:\ N/A\r\n\ \r\n\ @post\:\ returns\ the\ boolean\ value\ of\ the\ equation\ the\ return\ statement\r\n
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment2.text=\r\n\ @param\:\ N/A\r\n\ \r\n\ @post\:\ peeks\ at\ the\ value\ at\ the\ top\ of\ the\ stack,\ which\ in\ this\ case\ would\ be\ the\ last\ element\ in\ the\ array.\r\n\ According\ to\ the\ "First\ In,\ Last\ Out"\ template\ stacks\ use.\r\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment3.text=\r\n\ @param\:\ N/A\r\n\ \r\n\ @post\:\ removes\ the\ last\ element\ of\ the\ array\r\n
+comment4.params=data
+comment4.target=java.lang.Object\ push(java.lang.Object)
+comment4.text=\r\n\ @param\:\ the\ data\ of\ value\ being\ added\ to\ the\ stack\r\n\ \r\n\ @post\:\ adds\ the\ element\ to\ the\ end\ of\ the\ stack\r\n
+comment5.params=obj
+comment5.target=java.lang.Object\ search(java.lang.Object)
+comment5.text=\r\n\ @param\:\ key\ that\ the\ method\ searches\ for\r\n\ \r\n\ @post\:\ iterates\ through\ the\ stack\ and\ stopping\ if\ the\ key\ is\ found,\ else\ null\ is\ returned\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
